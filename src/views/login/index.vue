@@ -9,7 +9,7 @@
       label-position="left"
     >
       <div class="title-container">
-        <h3 class="title">福建省区块链项目</h3>
+        <h3 class="title">再来一次</h3>
       </div>
 
       <el-form-item prop="username">
